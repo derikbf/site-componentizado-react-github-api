@@ -10,7 +10,7 @@ const App = () => {
     <Layout>
      <Profile />
       <div>Reporitories</div>
-      <div>Starreds</div>
+      <div>Starred</div>
     </Layout>
    </main>
   );
