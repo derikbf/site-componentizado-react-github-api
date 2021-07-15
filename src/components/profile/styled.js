@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Wrapper = styled.div`
   display: flex;
@@ -10,10 +10,10 @@ export const WrapperInfoUser = styled.div`
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-between;
-  height: 200px;
   margin-left: 8px;
+  height: 200px;
 
-  h1{
+  h1 {
     font-size: 32px;
     font-weight: bold;
   }
@@ -22,6 +22,7 @@ export const WrapperInfoUser = styled.div`
     font-size: 18px;
     font-weight: bold;
   }
+
   h4 {
     font-size: 16px;
     font-weight: bold;
@@ -31,23 +32,25 @@ export const WrapperInfoUser = styled.div`
 export const WrapperStatusCount = styled.div`
   display: flex;
   align-items: center;
-  div{
+  div {
     margin: 8px;
     text-align: center;
   }
 `;
 
-export const WrapperUserName = styled.div`
+export const WrapperUserGeneric = styled.div`
   display: flex;
   align-items: center;
   margin-top: 8px;
-  h3{
+
+  h3 {
     margin-right: 8px;
   }
-  a{
+
+  a {
+    font-size: 18px;
     color: blue;
     font-weight: bold;
-    font-size: 18px;
   }
 `;
 

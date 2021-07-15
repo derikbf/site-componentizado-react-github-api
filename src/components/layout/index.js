@@ -1,6 +1,6 @@
-import React from 'react';
-import Header from '../header';
-import * as S from './styled';
+import React from "react";
+import Header from "../header";
+import * as S from "./styled";
 
 const Layout = ({ children }) => {
   return (
@@ -9,6 +9,6 @@ const Layout = ({ children }) => {
       {children}
     </S.WrapperLayout>
   );
-}
+};
 
 export default Layout;
