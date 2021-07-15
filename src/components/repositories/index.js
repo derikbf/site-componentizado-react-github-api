@@ -11,6 +11,8 @@ const Repositories = () => {
         <S.WrappersTab>Repositories</S.WrappersTab>
         <S.WrappersTab>Starred</S.WrappersTab>
       </S.WrappersTabList>
+      <S.WrappersTabPanel>panel Repositories</S.WrappersTabPanel>
+      <S.WrappersTabPanel>panel Starred</S.WrappersTabPanel>
     </S.WrappersTabs>
   );
 };
