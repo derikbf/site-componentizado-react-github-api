@@ -4,11 +4,11 @@
 </p>
 
 <!--About session-->
-<h1 align="center">Criando um front-end totalmente componentizado na prática com ReactJS
+<h1 align="center">Laboratórtio DIO. Criando um front-end totalmente componentizado na prática com ReactJS
 
 Como resultado temos uma página, na qual podemos pesquisar por usuários do Github, usando apenas seu username.<br>Digital Innovation One</h1>
 
-Laboratório "Criando um front-end totalmente componentizado com ReactJS da [Digital Innovation One](https://digitalinnovation.one/).
+[Digital Innovation One](https://digitalinnovation.one/).
 
 <p align="center"><img src="./img/projeto.gif" title="Lab: Site Totalmente Componentizado - ReactJS - DIO"></p>
 
