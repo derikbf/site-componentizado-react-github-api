@@ -6,7 +6,7 @@
 <!--About session-->
 <h1 align="center">Laboratórtio DIO. Criando um front-end totalmente componentizado na prática com ReactJS.</h1>
 Como resultado temos uma página, na qual podemos pesquisar por usuários do Github, usando apenas seu username.
-<br>Digital Innovation One
+<br>
 
 [Digital Innovation One](https://digitalinnovation.one/).
 
